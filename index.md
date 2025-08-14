@@ -61,4 +61,4 @@ This project shows how data science can uncover meaningful insights and simulate
 ---
 
 ## 🔍 GitHub repository for the code
-👉 Spain GDP Prediction on GitHub
+👉 https://github.com/danirzrz/spain-gdp-prediction-v2
