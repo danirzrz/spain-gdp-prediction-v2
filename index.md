@@ -1,5 +1,5 @@
 
-![Predicting Spain's Economic Trends Using World Bank Data](spain_economy_banner.jpg)
+![Predicting Spain's Economic Trends Using World Bank Data](images/spain_economy_banner.jpg)
 
 # 📊 Predicting Spain’s Economic Future with Data Science
 
@@ -14,7 +14,7 @@ Using a wide range of development indicators from 2015 to 2024, I analyzed which
 
 A heatmap of correlations revealed strong relationships between GDP and several metrics, helping guide feature selection for modeling.
 
-![Correlation of Indicators with GDP](correlation_with_gdp.png)
+![Correlation of Indicators with GDP](images/correlation_with_gdp.png)
 
 ---
 
@@ -22,7 +22,7 @@ A heatmap of correlations revealed strong relationships between GDP and several 
 
 Spain’s GDP has shown fluctuations over the past decade, with notable dips during global disruptions and recoveries in recent years. The line plot below illustrates these trends clearly.
 
-![GDP Over Time](gdp_over_time.png)
+![GDP Over Time](images/gdp_over_time.png)
 
 ---
 
@@ -50,7 +50,7 @@ To test the model’s predictive capabilities, I created a hypothetical scenario
 
 Using the trained **Random Forest model**, the predicted GDP under this scenario was significantly higher than the actual value for 2024.
 
-![GDP Prediction Under Hypothetical Scenario](gdp_prediction_scenario.png)
+![GDP Prediction Under Hypothetical Scenario](images/gdp_prediction_scenario.png)
 
 ---
 
