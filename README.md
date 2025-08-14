@@ -19,6 +19,15 @@ Understanding the drivers of economic growth is crucial for policy-making and fo
 ---
 
 ## 📁 Repository Structure
+
+| File | Description |
+|------|-------------|
+| `spain_data_wide.csv` | Cleaned dataset filtered for Spain with missing values handled |
+| `Project Spain Development Indicators.ipynb` | Jupyter Notebook with full analysis, visualizations, and modeling |
+| `README.md` | Project overview and documentation |
+| `index.md` | Github blog post of the findings |
+
+## 📁 Repository Structure
 - `data/spain_data_wide.csv`: Cleaned dataset containing Spain's development indicators from 2015 to 2024.
 - `src/Spain_Economic_Analysis.py`: Python script performing data cleaning, modeling, and visualization.
 - `reports/figures/`: Folder for saving generated plots and charts.
