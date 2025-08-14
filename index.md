@@ -14,7 +14,7 @@ Using a wide range of development indicators from 2015 to 2024, I analyzed which
 
 A heatmap of correlations revealed strong relationships between GDP and several metrics, helping guide feature selection for modeling.
 
-![Correlation of Indicators with GDP](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d11-86a4df61534b7a6728feb8f2c80c6a91/views/original/generated_image.png)
+![Correlation of Indicators with GDP](https://github.com/danirzrz/spain-gdp-prediction-v2/blob/main/correlation_with_gdp.png)
 
 ---
 
