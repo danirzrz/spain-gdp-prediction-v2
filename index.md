@@ -1,5 +1,5 @@
 
-![Predicting Spain's Economic Trends Using World Bank Data](https://github.com/danirzrz/spain-gdp-prediction-v2/blob/main/spain_economy_banner.jpg)
+![Predicting Spain's Economic Trends Using World Bank Data](spain_economy_banner.jpg)
 
 # 📊 Predicting Spain’s Economic Future with Data Science
 
